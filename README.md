@@ -1,6 +1,6 @@
 # Linksハッカソン2024 チーム事故可視化成果物
-- DJITelloPyを改修して作成
-- examples内を編集した
+- ハッカソン記事は[こちら](https://www.mlit.go.jp/links/archives/1174.html)
+- 参考元GitHubは[こちら](https://github.com/damiafuentes/DJITelloPy)
 
 ## License
 
